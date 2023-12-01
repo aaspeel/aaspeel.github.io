@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Antoine Aspeel / Personal Website"
 title_separator          : "-"
-name                     : &name "Ruya Karagulle"
+name                     : &name "Antoine Aspeel"
 description              : &description "personal description"
-url                      : https://ruyakrgl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://aaspeel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ruyakrgl/ruyakrgl.github.io"
+repository               : "aaspeel/aaspeel.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -62,13 +62,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruya Karagulle"
+  name             : "Antoine Aspeel"
   avatar           : "profile_photo.jpeg"
   bio              : "I am a fourth year Ph.D. student at Electrical and Computer Engineering at University of Michigan."
   location         : "Ann Arbor, MI"
   googlescholar    : "https://scholar.google.com/citations?user=0Lre_BIAAAAJ&hl=en&oi=sra"
-  email            : "ruyakrgl@umich.edu"
-  github           : "ruyakrgl"
+  email            : "antoinas@umich.edu"
+  github           : "aaspeel"
   linkedin         : "ruyakaragulle"
   twitter          : "ruyakaragulle"
 

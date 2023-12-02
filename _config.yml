@@ -64,13 +64,13 @@ analytics:
 author:
   name             : "Antoine Aspeel"
   avatar           : "profile_photo.jpeg"
-  bio              : "kikou - I am a PhD in Control and optimization. I am currently doing a Postdoc at the University of Michigan"
+  bio              : "I am a PhD in Control and Optimization. I am currently doing a Postdoc at the University of Michigan"
   location         : "Ann Arbor, MI"
-  googlescholar    : "https://scholar.google.com/citations?user=0Lre_BIAAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=EDDQMfgAAAAJ&hl=en&oi=ao"
   email            : "antoinas@umich.edu"
   github           : "aaspeel"
   linkedin         : "ruyakaragulle"
-  twitter          : "ruyakaragulle"
+  twitter          : #"ruyakaragulle"
 
 
 # Reading Files

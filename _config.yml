@@ -69,7 +69,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=EDDQMfgAAAAJ&hl=en&oi=ao"
   email            : "antoinas@umich.edu"
   github           : "aaspeel"
-  linkedin         : "ruyakaragulle"
+  linkedin         : "antoine-aspeel"
   twitter          : #"ruyakaragulle"
 
 
@@ -140,9 +140,9 @@ collections:
   resume:
     output: true
     permalink: /:collection/:path/
-  personal:
-    output: true
-    permalink: /:collection/:path/
+#  personal:
+#    output: true
+#    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -177,13 +177,13 @@ defaults:
       layout: single
       author_profile: true
  # _personal
-  - scope:
-      path: ""
-      type: personal
-    values:
-      layout: single
-      author_profile: true
-      share: true
+#  - scope:
+#      path: ""
+#      type: personal
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
 
 
 # Sass/SCSS

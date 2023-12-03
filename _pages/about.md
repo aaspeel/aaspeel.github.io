@@ -10,12 +10,17 @@ redirect_from:
 
 ### Welcome! 
 
-I am Antoine Aspeel, Ph.D. in Control and Optimization at Electrical and Computer Engineering at University of Michigan under the advising of [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). My research is mainly focused on formal methods and machine learning, where I am trying to combine the advantages of machine learning with formal methods to infer better specifications for systems. 
+I am Antoine Aspeel, Ph.D. in Control and Optimization. My research interests are about safety control, reachability analysis, networked control systems, and resource-aware control. I am currently doing a postdoc at the University of Michigan under the advising of [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
 
-### News
+### Bio
 
-| September 2023 | We submitted our work on [A Preference Learning Approach to Develop Safe and Personalizable Autonomous Vehicles](https://doi.org/10.48550/arXiv.2311.02099) to Robotics and Automation Letters (RA-L). |
-| August 2023 | I completed my Summer Research Internship at Toyota Research Institute, Los Altos, California. It was an invaluable experience! |
-| May 2023 | I presented our poster on [Safety Guaranteed Preference Learning Approach for Autonomous Vehicles](https://doi.org/10.1145/3575870.3589549) at HSCC 2022 in San Antonio, Texas. |
-| September 2022 | I presented our work on [Classification of Driving Behaviors using STL Formulas](https://doi.org/10.1007/978-3-031-15839-1_9) at FORMATS 2022, online. |
-| July 2022 | I attended Formal Methods in Control Design workshop organized by European Embedded Control Institute (EECI). |
+I am born Belgium. I received B.Sc and M.Sc degrees in Mathematical engineering at the UCLouvain, Belgium. In 2022, I defended my PhD in mathematical engineering under the supervision of [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Benoît Macq](https://pilab.be/about-me/?p=benoit_macq) in the ICTEAM at UCLouvain, Belgium. I received my master degree in mathematical engineering from the same institute.
+
+
+### Latest news
+
+| Dec. 2023 | I will be at the _IEEE Conference on Decision and Control (CDC)_. [Haldun Balim](https://haldunbalim.github.io/) will present our work [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/pdf/2306.07113.pdf). |
+| Nov. 2023 | Our paper [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://arxiv.org/pdf/2311.08998.pdf) is accepted for publications in the _IEEE Control Systems Letters_.
+| Oct. 2023 | I was at the _CLEVR-AI, MURI Symposium_ (Boston) to present our work [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/pdf/2306.07113.pdf). |
+| Nov. 2022 | I started a postdoc in the group of Prof. [Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/). |
+

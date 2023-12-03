@@ -8,10 +8,30 @@ author_profile: true
 
 You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=EDDQMfgAAAAJ&hl=fr&oi=sra).
 
+# Journal publications
+
+* **Antoine Aspeel**, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye Ozay. [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://arxiv.org/pdf/2311.08998.pdf). _IEEE Control Systems Letters_, 2023. (Accepted for publication).
+
+* Haldun Balim, **Antoine Aspeel**, Zexiang Liu, and Necmiye Ozay. [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/pdf/2306.07113.pdf). _IEEE Control Systems Letters_, 2023.
+  * With presentation at _The 62th IEEE International Conference on Decision and Control_, 2023.
+
+* **Antoine Aspeel**, Amaury Gouverneur, Raphaël M Jungers, and Benoit Macq. [Optimal intermittent particle filter](https://arxiv.org/pdf/2204.06265.pdf). _IEEE Transactions on Signal Processing_, 2022.
+
+* Michaël Fanuel, **Antoine Aspeel**, Jean-Charles Delvenne, and Johan AK Suykens. [Positive semi-definite embedding for dimensionality reduction and out-of-sample extensions](https://epubs.siam.org/doi/10.1137/20M1370653). _SIAM Journal on Mathematics of Data Science_, 2022.
+
+* Damien Dasnoy, **Antoine Aspeel**, Kevin Souris, and Benoit Macq. [Locally tuned deformation fields combination for 2D cine-MRI-based driving of 3D motion models](https://www.sciencedirect.com/science/article/abs/pii/S112017972100363X). In _Physica Medica_, 2022.
+
+* **Antoine Aspeel**, Axel Legay, Raphaël M Jungers, and Benoit Macq. [Optimal measurement budget allocation for Kalman prediction over a finite time horizon by genetic algorithms](https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-021-00732-8). In _EURASIP Journal on Advances in Signal Processing_, 2021.
 
 
-{% include base_path %}
+# Works in proceedings of conferences
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Antoine Aspeel**, Kwesi Rutledge, Raphaël M Jungers, Benoit Macq, and Necmiye Ozay. [Optimal control for linear networked control systems with information transmission constraints](https://ieeexplore.ieee.org/document/9683476). In _The 60th IEEE International Conference on Decision and Control_, 2021.
+
+* **Antoine Aspeel**, Amaury Gouverneur, Raphaël M Jungers, and Benoit Macq. [Optimal measurement budget allocation for particle filtering](https://ieeexplore.ieee.org/document/9190702). In _27th IEEE International Conference on Image Processing_, 2020.
+
+* **Antoine Aspeel**, Damien Dasnoy, Raphaël M Jungers, and Benoit Macq. [Optimal intermittent measurements for tumor tracking in X-ray guided radiotherapy](https://arxiv.org/pdf/1903.08990.pdf). In _Medical Imaging 2019: Image-Guided Procedures, Robotic Interventions, and Modeling_. International Society for Optics and Photonics, 2019.
+
+# PhD Thesis
+
+* **Antoine Aspeel**. [Optimal Sampling for State Estimation of Stochastic Dynamical Systems](https://dial.uclouvain.be/pr/boreal/object/boreal%3A264180/datastream/PDF_01/view), 2022.

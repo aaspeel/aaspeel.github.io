@@ -14,7 +14,7 @@ I am Antoine Aspeel, Ph.D. in Control and Optimization. My research interests ar
 
 ### Bio
 
-I am born Belgium. I received B.Sc and M.Sc degrees in Mathematical engineering at the UCLouvain, Belgium. In 2022, I defended my PhD in mathematical engineering under the supervision of [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Benoît Macq](https://pilab.be/about-me/?p=benoit_macq) in the ICTEAM at UCLouvain, Belgium. I received my master degree in mathematical engineering from the same institute.
+I was born in Belgium. I received B.Sc and M.Sc degrees in Mathematical engineering at the UCLouvain, Belgium. In 2022, I defended my PhD in mathematical engineering under the supervision of [Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Benoît Macq](https://pilab.be/about-me/?p=benoit_macq) in the ICTEAM at UCLouvain, Belgium. I received my master degree in mathematical engineering from the same institute.
 
 
 ### Latest news

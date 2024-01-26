@@ -11,6 +11,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 # Journal publications
 
 * **Antoine Aspeel**, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye Ozay. [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://arxiv.org/pdf/2311.08998.pdf). _IEEE Control Systems Letters_, 2023. (Accepted for publication).
+  * With presentation at _The American Control Conference_, 2024.
 
 * Haldun Balim, **Antoine Aspeel**, Zexiang Liu, and Necmiye Ozay. [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://arxiv.org/pdf/2306.07113.pdf). _IEEE Control Systems Letters_, 2023.
   * With presentation at _The 62th IEEE International Conference on Decision and Control_, 2023.

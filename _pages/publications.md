@@ -35,6 +35,11 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 * **Antoine Aspeel**, Damien Dasnoy, Raphaël M Jungers, and Benoit Macq. [Optimal intermittent measurements for tumor tracking in X-ray guided radiotherapy](https://arxiv.org/pdf/1903.08990.pdf). In _Medical Imaging 2019: Image-Guided Procedures, Robotic Interventions, and Modeling_. International Society for Optics and Photonics, 2019.
 
+
+# Preprints
+
+* Michaël Fanuel, **Antoine Aspeel**, Michael T. Schaub, Jean-Charles Delvenne. [Ellipsoidal embeddings of graphs](https://arxiv.org/abs/2403.15023). (Under review).
+
 # PhD Thesis
 
 * **Antoine Aspeel**. [Optimal Sampling for State Estimation of Stochastic Dynamical Systems](https://dial.uclouvain.be/pr/boreal/object/boreal%3A264180/datastream/PDF_01/view), 2022.

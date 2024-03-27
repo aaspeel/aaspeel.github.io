@@ -29,6 +29,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 * **Antoine Aspeel**, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). Presentation in _The 8th IFAC Conference on Analysis and Design of Hybrid Systems_, 2024. (accepted for publication).
   * Was also accepted as a Late-Breaking News Poster at _The American Control Conference_ (ACC), 2024. The poster is available [here](/files/poster_simulation_lifted_system.pdf).
+  * Slides are available [here](/files/slides_lifted_systems.pdf).
 
 * **Antoine Aspeel**, Kwesi Rutledge, Raphaël M Jungers, Benoit Macq, and Necmiye Ozay. [Optimal control for linear networked control systems with information transmission constraints](https://ieeexplore.ieee.org/document/9683476). In _The 60th IEEE International Conference on Decision and Control_, 2021.
 

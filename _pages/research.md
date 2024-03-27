@@ -29,7 +29,7 @@ See the paper: Antoine Aspeel, Necmiye Ozay. [A Simulation Preorder for Koopman-
 * Reduces to a matrix rank minimization problem.
 * Solution relies on a new matrix factorization that decomposes the controller 𝐊 into an encoder 𝐄 and a decoder 𝐃.
 
-<br/><img src='/images/causal_factorization.png'>
+<br/><img src='/images/causal_facto.png'>
 
 See the paper: Antoine Aspeel, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye Ozay. [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://ieeexplore.ieee.org/abstract/document/10336872). _IEEE Control Systems Letters_, 2023.
 

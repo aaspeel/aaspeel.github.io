@@ -14,7 +14,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
   * With presentation at _The American Control Conference_ (ACC), 2024.
 
 * Haldun Balim, **Antoine Aspeel**, Zexiang Liu, and Necmiye Ozay. [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://ieeexplore.ieee.org/abstract/document/10153400). _IEEE Control Systems Letters_, 2023.
-  * With presentation at _The 62th IEEE International Conference on Decision and Control_, 2023. The slides are available [here](/files/slides_Koopman_BRS_CDC.pdf) and a poster is available [here](/files/poster_Koopman_BRS.pdf).
+  * With presentation at _The 62th IEEE International Conference on Decision and Control_, 2023.
+  * Slides are available [here](/files/slides_Koopman_BRS_CDC.pdf).
+  * A poster is available [here](/files/poster_Koopman_BRS.pdf).
 
 * **Antoine Aspeel**, Amaury Gouverneur, Raphaël M Jungers, and Benoit Macq. [Optimal intermittent particle filter](https://arxiv.org/pdf/2204.06265.pdf). _IEEE Transactions on Signal Processing_, 2022.
 
@@ -28,8 +30,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 # Works in proceedings of conferences
 
 * **Antoine Aspeel**, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). Presentation in _The 8th IFAC Conference on Analysis and Design of Hybrid Systems_, 2024. (accepted for publication).
-  * Was also accepted as a Late-Breaking News Poster at _The American Control Conference_ (ACC), 2024. The poster is available [here](/files/poster_simulation_lifted_system.pdf).
+  * Was also accepted as a Late-Breaking News Poster at _The American Control Conference_ (ACC), 2024.
   * Slides are available [here](/files/slides_lifted_systems.pdf).
+  * The poster is available [here](/files/poster_simulation_lifted_system.pdf).
 
 * **Antoine Aspeel**, Kwesi Rutledge, Raphaël M Jungers, Benoit Macq, and Necmiye Ozay. [Optimal control for linear networked control systems with information transmission constraints](https://ieeexplore.ieee.org/document/9683476). In _The 60th IEEE International Conference on Decision and Control_, 2021.
 
@@ -40,7 +43,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 # Preprints
 
-* Michaël Fanuel, **Antoine Aspeel**, Michael T. Schaub, Jean-Charles Delvenne. [Ellipsoidal embeddings of graphs](https://arxiv.org/abs/2403.15023). (under review).
+* Michaël Fanuel, **Antoine Aspeel**, Michael T Schaub, Jean-Charles Delvenne. [Ellipsoidal embeddings of graphs](https://arxiv.org/abs/2403.15023). (under review).
 
 # PhD Thesis
 

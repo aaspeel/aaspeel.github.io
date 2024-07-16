@@ -12,6 +12,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 * **Antoine Aspeel**, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye Ozay. [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://ieeexplore.ieee.org/abstract/document/10336872). _IEEE Control Systems Letters_, 2023.
   * With presentation at _The American Control Conference_ (ACC), 2024.
+  * Slides are available [here](/files/slides_causal_factorization.pdf).
 
 * Haldun Balim, **Antoine Aspeel**, Zexiang Liu, and Necmiye Ozay. [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://ieeexplore.ieee.org/abstract/document/10153400). _IEEE Control Systems Letters_, 2023.
   * With presentation at _The 62th IEEE International Conference on Decision and Control_, 2023.
@@ -29,8 +30,10 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 # Works in proceedings of conferences
 
-* **Antoine Aspeel**, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). Presentation in _The 8th IFAC Conference on Analysis and Design of Hybrid Systems_, 2024. (accepted for publication).
-  * Was also accepted as a Late-Breaking News Poster at _The American Control Conference_ (ACC), 2024.
+* Mohamad Louai Shehab, **Antoine Aspeel**, Nikos Aréchiga, Andrew Best, Necmiye Ozay. [Learning True Objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf). In the 6th Annual Learning for Dynamics & Control Conference (L4DC), 2024.
+
+* **Antoine Aspeel**, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). Presentation in _The 8th IFAC Conference on Analysis and Design of Hybrid Systems_, 2024.
+  * With presentation as a Late-Breaking News Poster at _The American Control Conference_ (ACC), 2024.
   * Slides are available [here](/files/slides_lifted_systems.pdf).
   * The poster is available [here](/files/poster_simulation_lifted_system.pdf).
 

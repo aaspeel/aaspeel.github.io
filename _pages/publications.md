@@ -30,7 +30,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 # Works in proceedings of conferences
 
-* Mohamad Louai Shehab, **Antoine Aspeel**, Nikos Aréchiga, Andrew Best, Necmiye Ozay. [Learning True Objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf). In the 6th Annual Learning for Dynamics & Control Conference (L4DC), 2024.
+* Mohamad Louai Shehab, **Antoine Aspeel**, Nikos Aréchiga, Andrew Best, Necmiye Ozay. [Learning True Objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf). In _The 6th Annual Learning for Dynamics & Control Conference_ (L4DC), 2024.
 
 * **Antoine Aspeel**, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). Presentation in _The 8th IFAC Conference on Analysis and Design of Hybrid Systems_, 2024.
   * With presentation as a Late-Breaking News Poster at _The American Control Conference_ (ACC), 2024.
@@ -51,4 +51,4 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 # PhD Thesis
 
 * **Antoine Aspeel**. [Optimal Sampling for State Estimation of Stochastic Dynamical Systems](https://dial.uclouvain.be/pr/boreal/object/boreal%3A264180/datastream/PDF_01/view), 2022.
-  * The slides of my PhD defense are available [here](/files/private_PhD_defense.pdf).
+  * Slides of my PhD defense are available [here](/files/private_PhD_defense.pdf).

@@ -49,9 +49,9 @@ My PhD thesis was driven by an applied problem in proton therapy. Essentially, p
 
 One approach to address this is to use X-ray images of the patient's chest to measure the tumor's position. However, X-ray imaging exposes the patient, including healthy tissue, to radiation. Therefore, the number of X-ray images that can be taken is limited.
 
-My thesis tackles the problem of _determining the optimal timing for X-ray acquisitions, given a limited budget, to achieve the best tracking of the tumor's position_. From a broader perspective, this problem can be formulated as _optimizing the measurement times to obtain the best state estimation of a dynamic system._ I studied this problem under different assumptions (linear vs. nonlinear dynamics, expected vs. worst case error).
+My thesis tackles the problem of _determining the optimal timing for X-ray acquisitions, given a limited budget, to achieve the best tracking of the tumor's position_. From a broader perspective, this problem can be formulated as **optimizing the measurement times to obtain the best state estimation of a dynamic system.** I studied this problem under different assumptions (linear vs. nonlinear dynamics, expected vs. worst case error).
 
-During my PhD, I had the privilege of collaborating with [IBA](https://www.iba-worldwide.com/), the world leader in proton therapy. This collaboration enabled me to bridge the gap between theory and practice by applying my developed methods to the problem of tumor tracking using real medical data.
+During my PhD, **I had the privilege of collaborating with [IBA](https://www.iba-worldwide.com/), the world leader in proton therapy**. This collaboration enabled me to bridge the gap between theory and practice by applying my developed methods to the problem of tumor tracking using real medical data.
 
 My PhD thesis **_Optimal Sampling for State Estimation of Stochastic Dynamical Systems_** completed under the supervision of [Prof. Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Prof. Benoît Macq](https://pilab.be/about-me/?p=benoit_macq), is available [here](https://dial.uclouvain.be/pr/boreal/object/boreal%3A264180/datastream/PDF_01/view). The slides of my PhD defense are available [here](/files/private_PhD_defense.pdf).
 

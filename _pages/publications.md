@@ -30,6 +30,9 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 # Works in proceedings of conferences
 
+* **Antoine Aspeel**, Laurent Bako, Necmiye Ozay. [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012). In _The 63th IEEE International Conference on Decision and Control_, 2024.
+  * Presented in the **inveted session** _Event-Triggered and Self-Triggered Control_.
+
 * Mohamad Louai Shehab, **Antoine Aspeel**, Nikos Aréchiga, Andrew Best, Necmiye Ozay. [Learning True Objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf). In _The 6th Annual Learning for Dynamics & Control Conference_ (L4DC), 2024.
 
 * **Antoine Aspeel**, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). Presentation in _The 8th IFAC Conference on Analysis and Design of Hybrid Systems_, 2024.

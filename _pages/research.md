@@ -21,7 +21,9 @@ By combining these areas, I strive to contribute to the development of robust an
 
 <br/><img src='/images/Koopman_scheme.png'>
 
-See the paper: Antoine Aspeel, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). Presentation in _The 8th IFAC Conference on Analysis and Design of Hybrid Systems_, 2024. (accepted for publication). Some slides are available [here](/files/slides_lifted_systems.pdf), and a poster is available [here](/files/poster_simulation_lifted_system.pdf).
+Related papers:
+* Antoine Aspeel, Necmiye Ozay. [A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909). ([Slides](/files/slides_lifted_systems.pdf), [Poster](/files/poster_simulation_lifted_system.pdf))
+* Haldun Balim, Antoine Aspeel, Zexiang Liu, and Necmiye Ozay. [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://ieeexplore.ieee.org/abstract/document/10153400). ([Slides](/files/slides_Koopman_BRS_CDC.pdf), [Poster](/files/poster_Koopman_BRS.pdf))
 
 ### Minimum Sensors-to-Actuators Communication
 
@@ -31,7 +33,9 @@ See the paper: Antoine Aspeel, Necmiye Ozay. [A Simulation Preorder for Koopman-
 
 <br/><img src='/images/causal_facto.png'>
 
-See the paper: Antoine Aspeel, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye Ozay. [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://ieeexplore.ieee.org/abstract/document/10336872). _IEEE Control Systems Letters_, 2023.
+Related papers:
+* Antoine Aspeel, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye Ozay. [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://ieeexplore.ieee.org/abstract/document/10336872). ([Slides](/files/slides_causal_factorization.pdf))
+* Antoine Aspeel, Laurent Bako, Necmiye Ozay. [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012).
 
 ### Sparse Sensors and Actuators Activation
 
@@ -41,7 +45,7 @@ See the paper: Antoine Aspeel, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye O
 
 <br/><img src='/images/drone.png'>
 
-See the paper: Antoine Aspeel, Kwesi Rutledge, Raphaël M Jungers, Benoit Macq, and Necmiye Ozay. [Optimal control for linear networked control systems with information transmission constraints](https://ieeexplore.ieee.org/document/9683476). In _The 60th IEEE International Conference on Decision and Control_, 2021.
+See the paper: Antoine Aspeel, Kwesi Rutledge, Raphaël M Jungers, Benoit Macq, and Necmiye Ozay. [Optimal control for linear networked control systems with information transmission constraints](https://ieeexplore.ieee.org/document/9683476).
 
 # About my PhD Thesis
 

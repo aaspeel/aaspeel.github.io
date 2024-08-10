@@ -18,7 +18,7 @@ I was born in Belgium. I received B.Sc and M.Sc degrees in Mathematical engineer
 
 
 ### Latest news
-* _Jul. 2024_ — Our paper **[Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012)** is accepted for presentation at the _[IEEE Conference on Decision and Control](https://cdc2024.ieeecss.org/)_ (CDC) in the **inveted session** _Event-Triggered and Self-Triggered Control_.
+* _Jul. 2024_ — Our paper **[Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012)** is accepted for presentation at the _[IEEE Conference on Decision and Control](https://cdc2024.ieeecss.org/)_ (CDC) in the **invited session** _Event-Triggered and Self-Triggered Control_.
 * _Jul. 2024_ — [Mohamad Louai Shehab](https://scholar.google.com/citations?user=DJvw8dUAAAAJ&hl=fr&oi=ao) was at the _[Learning for Dynamics and Control Conference](https://l4dc.web.ox.ac.uk/home)_ (L4DC) to present our work **[Learning true objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf)**.
 * _Jul. 2024_ — I was at the _[IEEE American Control Conference](https://acc2024.a2c2.org/)_ (ACC) to present our article **[A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://arxiv.org/pdf/2311.08998.pdf)**.
 * _Jul. 2024_ — I was at the _[IFAC Conference on Analysis and Design of Hybrid Systems](https://www.colorado.edu/conference/adhs2024/)_ (ADHS) to present our article **[A Simulation Preorder for Koopman-like Lifted Control Systems](https://arxiv.org/abs/2401.14909)**.

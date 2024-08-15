@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+[comment]: <To generate the publications automatically from a .bib file, see: https://github.com/academicpages/academicpages.github.io/wiki/Customizing-the-content-on-your-site#publications and https://github.com/academicpages/academicpages.github.io/blob/master/_pages/publications.html>
 
 You can also find my publications on my [Google Scholar profile](https://scholar.google.com/citations?user=EDDQMfgAAAAJ&hl=fr&oi=sra).
 

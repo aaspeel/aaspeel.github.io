@@ -6,9 +6,5 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-    
   - title: "Resume"
-    url: /files/CV_Antoine_ASPEEL.pdf
-
+    url: /resume/

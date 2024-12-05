@@ -64,10 +64,10 @@ analytics:
 author:
   name             : "Antoine Aspeel"
   avatar           : "profile_photo.jpeg"
-  bio              : "I am a PhD in Control and Optimization. I am currently doing a Postdoc at the University of Michigan"
-  location         : "Ann Arbor, MI"
+  bio              : "I am a PhD in Control and Optimization. I am currently doing a postoc at L2S (Laboratoire des Signaux et Systèmes), part of CentraleSupélec, Paris-Saclay."
+  location         : "Gif-Sur-Yvette, France"
   googlescholar    : "https://scholar.google.com/citations?user=EDDQMfgAAAAJ&hl=en&oi=ao"
-  email            : "antoinas@umich.edu"
+  email            : "antoine.aspeel@centralesupelec.fr"
   github           : "aaspeel"
   linkedin         : "antoine-aspeel"
   twitter          : #"ruyakaragulle"

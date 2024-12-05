@@ -10,14 +10,23 @@ redirect_from:
 
 ### Welcome! 
 
-I am Antoine Aspeel, Ph.D. in Control and Optimization. My research interests are about safety control, reachability analysis, networked control systems, and resource-aware control. I am currently doing a postdoc at the University of Michigan under the advising of [Prof. Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
+I am Antoine Aspeel, Ph.D. in Control and Optimization. My research interests are about safety control, reachability analysis, networked control systems, and resource-aware control.
+
+ I am currently doing a postdoc with [Antoine Girard](https://sites.google.com/site/antoinesgirard/) and [Thiago Alves Lima](https://sites.google.com/view/thiagoalveslima/home) at the [L2S](https://l2s.centralesupelec.fr/), part of CentraleSupélec (Paris Saclay).
 
 ### Bio
 
-I was born in Belgium. I received B.Sc and M.Sc degrees in Mathematical engineering at the UCLouvain, Belgium. In 2022, I defended my PhD in mathematical engineering under the supervision of [Prof. Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Prof. Benoît Macq](https://pilab.be/about-me/?p=benoit_macq) in the ICTEAM at UCLouvain, Belgium.
+I was born in Belgium. I received B.Sc and M.Sc degrees in Mathematical engineering at the UCLouvain, Belgium.
+
+In 2022, I defended my PhD in mathematical engineering under the supervision of [Prof. Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Prof. Benoît Macq](https://pilab.be/about-me/?p=benoit_macq) in the ICTEAM at UCLouvain, Belgium.
+
+After completing my PhD, I pursued a postdoctoral position at the University of Michigan, working with [Prof. Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
 
 
 ### Latest news
+* _Dec. 2024_ - I will be at the _[IEEE Conference on Decision and Control](https://cdc2024.ieeecss.org/)_ (CDC) to present our work **[Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012)** at the <span style="color:red">**invited session**</span> "Event-Triggered and Self-Triggered Control". I will be co-chairing the session.
+* _Dec. 2024_ - I started a postdoc at [L2S, CentraleSupélec](https://l2s.centralesupelec.fr/) with [Antoine Girard](https://sites.google.com/site/antoinesgirard/) and [Thiago Alves Lima](https://sites.google.com/view/thiagoalveslima/home).
+* _Sep. 2024_ - [Prof. Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/) presented our work **Control with minimum data-transmission** at the [Allerton Conference](https://allerton.csl.illinois.edu/).
 * _Jul. 2024_ — Our paper **[Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012)** is accepted for presentation at the _[IEEE Conference on Decision and Control](https://cdc2024.ieeecss.org/)_ (CDC) in the **invited session** _Event-Triggered and Self-Triggered Control_.
 * _Jul. 2024_ — [Mohamad Louai Shehab](https://scholar.google.com/citations?user=DJvw8dUAAAAJ&hl=fr&oi=ao) was at the _[Learning for Dynamics and Control Conference](https://l4dc.web.ox.ac.uk/home)_ (L4DC) to present our work **[Learning true objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf)**.
 * _Jul. 2024_ — I was at the _[IEEE American Control Conference](https://acc2024.a2c2.org/)_ (ACC) to present our article **[A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://arxiv.org/pdf/2311.08998.pdf)**.

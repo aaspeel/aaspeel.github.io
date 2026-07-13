@@ -43,6 +43,8 @@ Related papers:
 
 ### Minimum Sensors-to-Actuators Communication
 
+**For a blog post about this work, [click here](/min_communication/).**
+
 * Design a controller that can be implemented with a minimum number of sensor-to-actuator messages, while satisfying safety constraints.
 * Reduces to a matrix rank minimization problem.
 * Solution relies on a new matrix factorization that decomposes the controller 𝐊 into an encoder 𝐄 and a decoder 𝐃.

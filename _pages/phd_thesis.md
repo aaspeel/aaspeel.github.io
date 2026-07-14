@@ -37,10 +37,9 @@ Cx_t + v_t & \text{if } \sigma_t = 1 \\
 \end{aligned}
 $$
 
-where $x_t$ is the state, $y_t$ is the measurement, $w_t$ and $v_t$ are process and measurement noises. They are independent and follow a Gaussian distribution. The quantity $\sigma_t\in$ {0,1} is a binary variable describing when a measurement is acquired. This dynamics is considered over a finite time horizon $t=0,\dots,T$, and a budget of at most $N$ measurements is allowed, i.e., $
-\sum_{t=0}^T\sigma_t\leq N$.
+where \\(x_t\\) is the state, \\(y_t\\) is the measurement, \\(w_t\\) and \\(v_t\\) are process and measurement noises. They are independent and follow a Gaussian distribution. The quantity \\(\sigma_t\in\\) {0,1} is a binary variable describing when a measurement is acquired. This dynamics is considered over a finite time horizon \\(t=0,\dots,T\\), and a budget of at most \\(N\\) measurements is allowed, i.e., \\(\sum_{t=0}^T\sigma_t\leq N\\).
 
-In this research, my goal is to design the measurement times $(\sigma_t)_{t=0}^T$ in order to minimize the cumulated expected mean squared estimation error
+In this research, my goal is to design the measurement times \\((\sigma_t)_{t=0}^T\\) in order to minimize the cumulated expected mean squared estimation error
 
 $$
 \sum_{t=0}^T \mathbb{E}[\|x_t-\hat{x}_t\|^2_2],
@@ -52,17 +51,17 @@ $$
 \hat{x}_t=\mathbb{E}[x_t| y_0,\dots,y_t]
 $$
 
-is the minimum mean squared error estimate. For a given sequence of measurement times $(\sigma_t)_{t=0}^T$, the estimate $\hat{x}_t$ is given by the Kalman filter (the correction step of the Kalman filter is skipped when $\sigma_t=0$ and no measurement is available).
+is the minimum mean squared error estimate. For a given sequence of measurement times \\((\sigma_t)_{t=0}^T\\), the estimate \\(\hat{x}_t\\) is given by the Kalman filter (the correction step of the Kalman filter is skipped when \\(\sigma_t=0\\) and no measurement is available).
 
-> **Time- vs. self-triggered measurements:** In order to make the estimation error as small as possible, the decision $\sigma_t$ of measuring at time $t$ should depend on all the available information at that time, including the previous measurements $y_0,\dots,y_{t-1}$. Formally, this can be written
+> **Time- vs. self-triggered measurements:** In order to make the estimation error as small as possible, the decision \\(\sigma_t\\) of measuring at time \\(t\\) should depend on all the available information at that time, including the previous measurements \\(y_0,\dots,y_{t-1}\\). Formally, this can be written
 >
 > $$
 > \sigma_t=\pi_t(\sigma_0,\dots,\sigma_{t-1};y_0,\dots,y_{t-1}),
 > $$
 >
-> where $\pi_t$ is a policy function. In that case, the measurement-times selection mechanism is called **self-triggered**.
+> where \\(\pi_t\\) is a policy function. In that case, the measurement-times selection mechanism is called **self-triggered**.
 >
-> In contrast, if the measurement times $\sigma_t$ are selected _a priori_, independently of the measurements, the measurement-times selection is called **time-triggered**. In general, time-triggered mechanisms are easier to implement, but self-triggered mechanisms give better performance.
+> In contrast, if the measurement times \\(\sigma_t\\) are selected _a priori_, independently of the measurements, the measurement-times selection is called **time-triggered**. In general, time-triggered mechanisms are easier to implement, but self-triggered mechanisms give better performance.
 
 Designing self-triggered mechanisms poses the following computational challenges:
 
@@ -72,10 +71,10 @@ $$
 (\pi_t)_{t=0}^T
 $$
 
-that decide if a measurement is necessary at time $t$ based on the previously acquired measurements $y_0,\dots,y_{t-1}$. Since functions are infinite dimensional objects, **this makes the problem infinite-dimensional** and therefore seemingly intractable.<br>
-<u>Solution:</u> A key finding of this part of my research is that **the optimal policies do not depend on the measurements**. Consequently, one can optimize directly over the measurement times $(\sigma_t)_{t=0}^T$ **making the problem finite-dimensional**. In other words, we showed that **the optimal self-triggered and time-triggered mechanisms are equivalent**. In addition, the **measurement times can be selected offline** (i.e., before the beginning of the tracking at time $t=0$) **without loss of optimality**.
+that decide if a measurement is necessary at time \\(t\\) based on the previously acquired measurements \\(y_0,\dots,y_{t-1}\\). Since functions are infinite dimensional objects, **this makes the problem infinite-dimensional** and therefore seemingly intractable.<br>
+<u>Solution:</u> A key finding of this part of my research is that **the optimal policies do not depend on the measurements**. Consequently, one can optimize directly over the measurement times \\((\sigma_t)_{t=0}^T\\) **making the problem finite-dimensional**. In other words, we showed that **the optimal self-triggered and time-triggered mechanisms are equivalent**. In addition, the **measurement times can be selected offline** (i.e., before the beginning of the tracking at time \\(t=0\\)) **without loss of optimality**.
 
-* <u>Challenge:</u> Despite being finite-dimensional, optimizing over the measurement times $(\sigma_t)_{t=0}^T$ is an intractable combinatorial optimization problem.<br>
+* <u>Challenge:</u> Despite being finite-dimensional, optimizing over the measurement times \\((\sigma_t)_{t=0}^T\\) is an intractable combinatorial optimization problem.<br>
 <u>Solution:</u> We proposed an **efficient genetic algorithm specifically tailored to this optimization problem**.
 
 Using a duality argument, our method can be applied to control a linear system subject to an actuation budget while minimizing a LQR cost.
@@ -114,7 +113,7 @@ In that case, the optimal policy for the measurement times is not independent of
 
 ### Time-triggered particle filter
 
-We started by considering the problem of finding the best time-triggered measurement times, i.e., the measurement times $(\sigma_t)_{t=0}^T$ must be selected offline and are not allowed to depend on the measurements $y_0,\dots,y_T$.
+We started by considering the problem of finding the best time-triggered measurement times, i.e., the measurement times \\((\sigma_t)_{t=0}^T\\) must be selected offline and are not allowed to depend on the measurements \\(y_0,\dots,y_T\\).
 
 * <u>Challenge:</u> Since the dynamics are nonlinear and stochastic, estimating the cumulated expected mean squared error for a specific sequence of measurement times is challenging.<br>
 <u>Solution:</u> We developed a Monte Carlo method that simulates the dynamics to estimate the cumulated estimation error (see figure below).
@@ -128,7 +127,7 @@ We started by considering the problem of finding the best time-triggered measure
 
 ### Self-triggered particle filter
 
-To design a self-triggered particle filter, we used a receding horizon approach. First, all measurement times are selected offline using our time-triggered particle filter. Then, only the first measurement is acquired, and the remaining measurement times are re-optimized by taking into account the already received measurements. This process is repeated until the measurement budget $N$ is reached.
+To design a self-triggered particle filter, we used a receding horizon approach. First, all measurement times are selected offline using our time-triggered particle filter. Then, only the first measurement is acquired, and the remaining measurement times are re-optimized by taking into account the already received measurements. This process is repeated until the measurement budget \\(N\\) is reached.
 
 * <u>Challenge:</u> Receding horizon approaches require online (i.e., real-time) computations, which can become infeasible in practice due to computational limitations.<br>
 <u>Solution:</u> To mitigate the computational burden, we employed warm-start techniques, parallelization, and problem-specific decomposition strategies, achieving a significant reduction in computation time.
@@ -161,10 +160,10 @@ $$
 u_t = \sum_{\tau \leq t} K_{(t,\tau)} y_\tau,
 $$
 
-where the gains $K_{(t,\tau)}$ are design variables. Our objective was to co-design:
-- the controller gains $K_{(t,\tau)}$,
-- the measurement times $\sigma_t^{\text{meas.}}$,
-- the control times $\sigma_t^{\text{control}}$,
+where the gains \\(K_{(t,\tau)}\\) are design variables. Our objective was to co-design:
+- the controller gains \\(K_{(t,\tau)}\\),
+- the measurement times \\(\sigma_t^{\text{meas.}}\\),
+- the control times \\(\sigma_t^{\text{control}}\\),
 
 while satisfying two types of constraints:
 - a <span style="color:red"><u>safety</u></span> constraint ensuring that the state remains inside a prescribed safe region for any realization of the disturbances,
@@ -172,7 +171,7 @@ while satisfying two types of constraints:
 
 #### Safety
 
-The safety constraint is not convex with respect to the controller gains $K_{(t,\tau)}$. However, using the Youla parameterization allows one to rewrite the constraint linearly in terms of the Youla parameter (assuming safety and noise sets are polytopes).
+The safety constraint is not convex with respect to the controller gains \\(K_{(t,\tau)}\\). However, using the Youla parameterization allows one to rewrite the constraint linearly in terms of the Youla parameter (assuming safety and noise sets are polytopes).
 
 #### Budget
 
@@ -204,7 +203,7 @@ K_{(t,\tau)} = 0
 \end{aligned}
 $$
 
-The first constraint ensures that if a measurement is unavailable at time $\tau$, it cannot be used by the controller. The second constraint guarantees that $u_t = 0$ whenever $\sigma_t^{\text{control}} = 0$.
+The first constraint ensures that if a measurement is unavailable at time \\(\tau\\), it cannot be used by the controller. The second constraint guarantees that \\(u_t = 0\\) whenever \\(\sigma_t^{\text{control}} = 0\\).
 
 * <u>Challenge:</u> Solving the problem directly in terms of the controller gains leads to a non-convex safety constraint. Conversely, solving the problem in terms of the Youla parameter may render the indicator constraints non-convex.<br>
 <u>Solution:</u> We proved that, despite the nonlinearity of the Youla parameterization, the linearity of the indicator constraints is preserved through this specific nonlinear change of variables. This result allows the problem to be reformulated as a mixed-integer <em>linear</em> program (MILP), instead of a mixed-integer <em>non-convex</em> program, yielding considerable computational benefits.

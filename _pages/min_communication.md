@@ -26,7 +26,7 @@ In this work, we consider a linear discrete-time control system
 
 $$
 \begin{aligned}
-x_{t+1} &= A x_t + B u_t + w_t,\
+x_{t+1} &= A x_t + B u_t + w_t,\\
 y_t &= C x_t + v_t,
 \end{aligned}
 $$

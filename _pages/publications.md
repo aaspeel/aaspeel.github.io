@@ -13,12 +13,12 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 * Mohamad Louai Shehab, **Antoine Aspeel**, Necmiye Ozay. [Active Reward Machine Inference From Raw State Trajectories](https://arxiv.org/abs/2604.07480). (Accepted as WAFR publication).
 
-* **Antoine Aspeel**, Antoine Girard, Thiago Alves Lima. [Exploiting Over-Approximation Errors as Preview Information for Nonlinear Control](https://arxiv.org/abs/2511.03577). (Accepted as ECC publication).
-
 
 # Journal publications
 
-* Mohamad Louai Shehab, **Antoine Aspeel**, Necmiye Ozay. [Learning Reward Machines from Partially Observed Optimal Policies](https://arxiv.org/abs/2502.03762). _Transactions on Machine Learning Research_ (TMLR).
+* Mélanie Ghislain, Estelle Loÿen, **Antoine Aspeel**, Damien Dasnoy-Sumell, Romain Schyns, Ana Maria Barragan Montero, Benoit Macq. [Patient-Specific Deep Reinforcement Learning for Proton Beam Delivery Under Inter-Phase Variations](https://www.sciencedirect.com/science/article/pii/S2331518026006554). _International Journal of Particle Therapy_, 2026.
+
+* Mohamad Louai Shehab, **Antoine Aspeel**, Necmiye Ozay. [Learning Reward Machines from Partially Observed Optimal Policies](https://arxiv.org/abs/2502.03762). _Transactions on Machine Learning Research_ (TMLR), 2026.
 
 * Ram Padmanabhan, **Antoine Aspeel**, Necmiye Ozay, Melkior Ornik. [Mode-Prefix-Based Control of Switched Linear Systems with Applications to Fault Tolerance](https://arxiv.org/abs/2505.13105). _IEEE Control Systems Letters_, 2025.
   * With presentation at _The Conference on Decision and Control_ (CDC), 2025.
@@ -44,6 +44,8 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 
 # Works in proceedings of conferences
+
+* **Antoine Aspeel**, Antoine Girard, Thiago Alves Lima. [Exploiting Over-Approximation Errors as Preview Information for Nonlinear Control](https://arxiv.org/abs/2511.03577). In _2026 European Control Conference_ (ECC) (pp. 605-610). IEEE.
 
 * **Antoine Aspeel**, Laurent Bako, Necmiye Ozay. [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012). In _The 63th IEEE International Conference on Decision and Control_, 2024.
   * Presented in the **invited session** _Event-Triggered and Self-Triggered Control_.

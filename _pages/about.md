@@ -25,6 +25,8 @@ After completing my Ph.D., I pursued a postdoctoral position at the University o
 
 ### Latest news
 
+* _Jul. 2026_ - Our paper [Patient-Specific Deep Reinforcement Learning for Proton Beam Delivery Under Inter-Phase Variations](https://www.sciencedirect.com/science/article/pii/S2331518026006554) has been accepted for publication in the International Journal of Particle Therapy.
+
 * _Apr. 2026_ - Our paper [Active Reward Machine Inference From Raw State Trajectories](https://arxiv.org/abs/2604.07480) has been accepted for publication in WAFR 2026.
 
 * _Mar. 2026_ - Our paper [Exploiting Over-Approximation Errors as Preview Information for Nonlinear Control](https://arxiv.org/abs/2511.03577) has been accepted for publication at ECC 2026.

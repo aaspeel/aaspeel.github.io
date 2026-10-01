@@ -11,7 +11,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 # Preprints
 
-* Mohamad Louai Shehab, **Antoine Aspeel**, Necmiye Ozay. [Active Reward Machine Inference From Raw State Trajectories](https://arxiv.org/abs/2604.07480). (Accepted as WAFR publication).
+* Mohamad Louai Shehab, **Antoine Aspeel**, Necmiye Ozay. [Active Reward Machine Inference From Raw State Trajectories](https://arxiv.org/abs/2604.07480). (Accepted for publication at WAFR).
 
 
 # Journal publications
@@ -30,7 +30,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
   * Slides are available [here](/files/slides_causal_factorization.pdf).
 
 * Haldun Balim, **Antoine Aspeel**, Zexiang Liu, and Necmiye Ozay. [Koopman-inspired Implicit Backward Reachable Sets for Unknown Nonlinear Systems](https://ieeexplore.ieee.org/abstract/document/10153400). _IEEE Control Systems Letters_, 2023.
-  * With presentation at _The 62th IEEE International Conference on Decision and Control_, 2023.
+  * With presentation at _The 62nd IEEE International Conference on Decision and Control_, 2023.
   * Slides are available [here](/files/slides_Koopman_BRS_CDC.pdf).
   * A poster is available [here](/files/poster_Koopman_BRS.pdf).
 
@@ -47,7 +47,7 @@ You can also find my publications on my [Google Scholar profile](https://scholar
 
 * **Antoine Aspeel**, Antoine Girard, Thiago Alves Lima. [Exploiting Over-Approximation Errors as Preview Information for Nonlinear Control](https://arxiv.org/abs/2511.03577). In _2026 European Control Conference_ (ECC) (pp. 605-610). IEEE.
 
-* **Antoine Aspeel**, Laurent Bako, Necmiye Ozay. [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012). In _The 63th IEEE International Conference on Decision and Control_, 2024.
+* **Antoine Aspeel**, Laurent Bako, Necmiye Ozay. [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012). In _The 63rd IEEE International Conference on Decision and Control_, 2024.
   * Presented in the **invited session** _Event-Triggered and Self-Triggered Control_.
 
 * Mohamad Louai Shehab, **Antoine Aspeel**, Nikos Aréchiga, Andrew Best, Necmiye Ozay. [Learning True Objectives: Linear algebraic characterizations of identifiability in inverse reinforcement learning](https://proceedings.mlr.press/v242/shehab24a/shehab24a.pdf). In _The 6th Annual Learning for Dynamics & Control Conference_ (L4DC), 2024.

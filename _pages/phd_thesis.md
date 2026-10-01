@@ -37,7 +37,7 @@ Cx_t + v_t & \text{if } \sigma_t = 1 \\
 \end{aligned}
 $$
 
-where \\(x_t\\) is the state, \\(y_t\\) is the measurement, \\(w_t\\) and \\(v_t\\) are process and measurement noises. They are independent and follow a Gaussian distribution. The quantity \\(\sigma_t\in\\) {0,1} is a binary variable describing when a measurement is acquired. This dynamics is considered over a finite time horizon \\(t=0,\dots,T\\), and a budget of at most \\(N\\) measurements is allowed, i.e., \\(\sum_{t=0}^T\sigma_t\leq N\\).
+where \\(x_t\\) is the state, \\(y_t\\) is the measurement, \\(w_t\\) and \\(v_t\\) are process and measurement noises. They are independent and follow a Gaussian distribution. The quantity \\(\sigma_t\in\\) {0,1} is a binary variable describing when a measurement is acquired. This system is considered over a finite time horizon \\(t=0,\dots,T\\), and a budget of at most \\(N\\) measurements is allowed, i.e., \\(\sum_{t=0}^T\sigma_t\leq N\\).
 
 In this research, my goal is to design the measurement times \\((\sigma_t)_{t=0}^T\\) in order to minimize the cumulated expected mean squared estimation error
 

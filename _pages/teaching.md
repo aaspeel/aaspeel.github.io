@@ -35,11 +35,11 @@ From 2014 to 2021, I accumulated **200 hours of teaching experience** in undergr
 
 # Service
 
-Member of the **jury for 6 Master Thesis** at UCLouvain (Belgium).
+Member of the **jury for six master's theses** at UCLouvain (Belgium).
 
 Member of the **Ph.D. advisory committee** of Mélanie Ghislain, UCLouvain (Belgium).
 
-Member of **Technical Committee** — IEEE CSS Technical Committee on Robust and Complex Systems ([TCRoCS](https://ieeecss.org/technical-committee/robust-complex-systems)).
+Member of the **Technical Committee** — IEEE CSS Technical Committee on Robust and Complex Systems ([TCRoCS](https://ieeecss.org/technical-committee/robust-complex-systems)).
 
 ### Reviewing Activities
 

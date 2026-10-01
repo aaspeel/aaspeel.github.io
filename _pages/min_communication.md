@@ -11,7 +11,7 @@ This blog post describes the main ideas developed in the following publications.
 
 * Antoine Aspeel, Jakob Nylof, Jing Shuang (Lisa) Li, and Necmiye Ozay. [A Low Rank Approach to Minimize Sensor-to-Actuator Communication in Finite Horizon Output Feedback](https://ieeexplore.ieee.org/abstract/document/10336872). _IEEE Control Systems Letters_, 2023.
 
-* Antoine Aspeel, Laurent Bako, Necmiye Ozay. [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012). In _The 63th IEEE International Conference on Decision and Control_, 2024.
+* Antoine Aspeel, Laurent Bako, Necmiye Ozay. [Minimal L2-Consistent Data-Transmission](https://arxiv.org/abs/2408.04012). In _The 63rd IEEE International Conference on Decision and Control_, 2024.
 
 In this research, we consider the case of **sensors and actuators that are not collocated**. Our goal is to implement a feedback loop while minimizing the number of sensor-to-actuator communications. In that setting, one question is **where to implement the controller**. On the one hand, an option is to locate the controller next to the sensors. By doing so, a control input is sent to the actuators only when needed. This minimizes the use of actuators and reduces the number of communications. On the other hand, one can locate the controller on the actuator side, sense information only when needed, and transmit measurements only when sensed. This minimizes the use of sensors and reduces the number of transmissions. However, **to minimize the number of transmissions, distributed computing is required: an encoder located on the sensor side processes the measurements and sends messages to the decoder on the actuator side** (see Figure).
 

@@ -7,7 +7,7 @@ author_profile: true
 
 My research focuses on **safety control** and **networked control systems**. My aim is to contribute to the development of mathematical and algorithmic tools for designing controllers that guarantee safety properties of large-scale systems. A key component of my research is the design of **resource-aware** controllers for networked systems, while ensuring performance and safety specifications.
 
-By combining these areas, I strive to contribute to the development of robust and efficient control tools for the next-generation of **cyber-physical systems**.
+By combining these areas, I strive to contribute to the development of robust and efficient control tools for the next generation of **cyber-physical systems**.
 
 # Some of my recent works
 
@@ -32,7 +32,7 @@ Related paper:
 * We introduce _lifted systems_ as a generalization of finite-dimensional Koopman approximations to systems with inputs.
 * A notion of simulation relation is defined between lifted systems. It is proved that this simulation relation implies the containment of both the open- and closed-loop behaviors.
 * These results enable us to compare different lifting functions and alternative lifted systems in terms of their usefulness in control design.
-* This simalation relation generalizes (i) hybridizations, (ii) approximate immersions, and (iii) Koopman over-approximations.
+* This simulation relation generalizes (i) hybridizations, (ii) approximate immersions, and (iii) Koopman over-approximations.
 * Can be used to enforce specifications (or to compute backward reachable sets).
 
 <br/><img src='/images/Koopman_scheme.png'>
@@ -77,7 +77,7 @@ My thesis tackles the problem of _determining the optimal timing for X-ray acqui
 
 During my PhD, **I had the privilege of collaborating with [IBA](https://www.iba-worldwide.com/), the world leader in proton therapy**. This collaboration enabled me to bridge the gap between theory and practice by applying the methods I developed to tumor tracking using real medical data.
 
-My PhD thesis **_Optimal Sampling for State Estimation of Stochastic Dynamical Systems_** completed under the supervision of [Prof. Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Prof. Benoît Macq](https://pilab.be/about-me/?p=benoit_macq), is available [here](https://dial.uclouvain.be/pr/boreal/object/boreal%3A264180/datastream/PDF_01/view). The slides of my PhD defense are available [here](/files/private_PhD_defense.pdf).
+My PhD thesis **_Optimal Sampling for State Estimation of Stochastic Dynamical Systems_** was completed under the supervision of [Prof. Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Prof. Benoît Macq](https://pilab.be/about-me/?p=benoit_macq) and is available [here](https://dial.uclouvain.be/pr/boreal/object/boreal%3A264180/datastream/PDF_01/view). The slides of my PhD defense are available [here](/files/private_PhD_defense.pdf).
 
 # About my Master Thesis (on graph theory)
 

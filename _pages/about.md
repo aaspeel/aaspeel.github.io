@@ -20,9 +20,9 @@ I was born in Belgium. I received B.Sc and M.Sc degrees in Mathematical engineer
 
 In 2022, I defended my Ph.D. in mathematical engineering under the supervision of [Prof. Raphaël Jungers](https://perso.uclouvain.be/raphael.jungers/content/home) and [Prof. Benoît Macq](https://pilab.be/about-me/?p=benoit_macq) in the ICTEAM at UCLouvain <img src="/assets/logos/uclouvain.png" class="uni-logo" />, Belgium.
 
-After completing my Ph.D., I pursued a postdoctoral position at the University of Michigan <img src="/assets/logos/michigan.png" class="uni-logo" />, working with [Prof. Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
+After completing my Ph.D., I spent two years as a postdoctoral researcher at the University of Michigan <img src="/assets/logos/michigan.png" class="uni-logo" />, working with [Prof. Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
 
-From December 2024 to November 2025, I was a postdoctoral researcher at [L2S, CentraleSupélec](https://l2s.centralesupelec.fr/), working with [Antoine Girard](https://sites.google.com/site/antoinesgirard/) and [Thiago Alves Lima](https://sites.google.com/view/thiagoalveslima/home).
+I then spent one year as a postdoctoral researcher at [L2S, CentraleSupélec](https://l2s.centralesupelec.fr/), working with [Antoine Girard](https://sites.google.com/site/antoinesgirard/) and [Thiago Alves Lima](https://sites.google.com/view/thiagoalveslima/home).
 
 
 ### Latest news

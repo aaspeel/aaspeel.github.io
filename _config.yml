@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Antoine Aspeel"
   pronouns         : "he/his" # Optional
-  bio              : "I am a PhD in Control Theory and Optimization."
+  bio              : "CNRS Researcher (CR) in control theory and optimization at CRIStAL — Univ. of Lille, France."
   location         : "Lille, France"
   employer         : "CNRS"
   uri              : # URL
-  email            : "antoine.aspeel@centralesupelec.fr" 
+  email            : "antoine.aspeel@univ-lille.fr"
 
   # Academic websites
   academia         : # URL

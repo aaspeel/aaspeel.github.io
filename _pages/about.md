@@ -12,7 +12,7 @@ redirect_from:
 
 I am Antoine Aspeel, Ph.D. in Control and Optimization. My research interests are about safety control, reachability analysis, networked control systems, and resource-aware control.
 
- I am currently doing a postdoc with [Antoine Girard](https://sites.google.com/site/antoinesgirard/) and [Thiago Alves Lima](https://sites.google.com/view/thiagoalveslima/home) at the [L2S](https://l2s.centralesupelec.fr/) <img src="/assets/logos/L2S.png" class="uni-logo" />, part of CentraleSupélec (Paris Saclay) <img src="/assets/logos/CS-PS.png" class="uni-logo" />.
+I am a CNRS Researcher (CR) at [CRIStAL](https://www.cristal.univ-lille.fr/), University of Lille (France).
 
 ### Bio
 
@@ -22,8 +22,12 @@ In 2022, I defended my Ph.D. in mathematical engineering under the supervision o
 
 After completing my Ph.D., I pursued a postdoctoral position at the University of Michigan <img src="/assets/logos/michigan.png" class="uni-logo" />, working with [Prof. Necmiye Ozay](https://web.eecs.umich.edu/~necmiye/).
 
+From December 2024 to November 2025, I was a postdoctoral researcher at [L2S, CentraleSupélec](https://l2s.centralesupelec.fr/), working with [Antoine Girard](https://sites.google.com/site/antoinesgirard/) and [Thiago Alves Lima](https://sites.google.com/view/thiagoalveslima/home).
+
 
 ### Latest news
+
+* _Oct. 1, 2026_ - I started as a CNRS Researcher (CR) at CRIStAL, University of Lille.
 
 * _Jul. 2026_ - Our paper [Patient-Specific Deep Reinforcement Learning for Proton Beam Delivery Under Inter-Phase Variations](https://www.sciencedirect.com/science/article/pii/S2331518026006554) has been accepted for publication in the International Journal of Particle Therapy.
 

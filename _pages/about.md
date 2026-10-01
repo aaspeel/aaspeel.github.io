@@ -10,9 +10,9 @@ redirect_from:
 
 ### Welcome! 
 
-I am Antoine Aspeel, Ph.D. in Control and Optimization. My research interests are about safety control, reachability analysis, networked control systems, and resource-aware control.
+I am Antoine Aspeel, a CNRS researcher (CR) working on control and optimization. My research interests include safety control, reachability analysis, formal methods and networked control systems.
 
-I am a CNRS Researcher (CR) at [CRIStAL](https://www.cristal.univ-lille.fr/), University of Lille (France).
+I am based at [CRIStAL](https://www.cristal.univ-lille.fr/), University of Lille (France).
 
 ### Bio
 
